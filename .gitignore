@@ -1,0 +1,14 @@
+# build, install, and dependencies
+node_modules
+
+#ide files
+.idea
+*.idea*
+*.iml
+
+#sublime
+*.sublime-*
+
+OSX BS
+*.DS_Store*
+
